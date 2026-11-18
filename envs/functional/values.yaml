@@ -1,7 +1,8 @@
 wezvapaymentapp:
   wezvapaymentapp:
     image:
-      repository: 081654307023.dkr.ecr.ap-south-1.amazonaws.com/wezvatechpayment
+      #repository: 081654307023.dkr.ecr.ap-south-1.amazonaws.com/wezvatechpayment
+      repository: 148592180366.dkr.ecr.ap-south-1.amazonaws.com/wezvatechpayment
       tag: fb46
 paymentSvc:
   ports:
